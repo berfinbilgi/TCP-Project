@@ -1,0 +1,2 @@
+# TCP-Project
+UDP' ye göre hızı daha düşük olan ama hataların kontrolü, geri bildirimlerin yapılması, güvenilir olması gibi konularda daha avantajlı olan TCP Java Socket Programlama kullanılarak istemci ve sunucu oluşturulmuş, istemciden sunucuya bir mesaj gönderilip sunucunun o mesaja bir ek yapması ve tekrardan istemciye göndermesi, bu işlemlerin de Java Swing kullanılarak bir ekranda gösterilmesi işlemleri yapılmıştır.
